@@ -9,3 +9,4 @@ python:
 
 sphinx:
   configuration: docs/conf.py
+$ pip sphinx-rtd-theme
